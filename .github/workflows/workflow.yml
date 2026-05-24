@@ -2,7 +2,7 @@ name: CI workflow
 
 on:
   push:
-    branches: push on main brunch
+    branches: push on main branch
   pull_request:
     branches: pull_request on may branch
 jobs:
